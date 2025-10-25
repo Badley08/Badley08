@@ -1,111 +1,106 @@
-<h1 align="center">👋 Hey, I'm Karlito — aka Code_Senpai 🧠⚡</h1>
+<h1 align="center">✨ Yo, I'm Karlito — aka Code_Senpai 👾</h1>
 
 <p align="center">
-  <b>Young developer • Tech enthusiast • Manga lover • Future innovator</b><br>
-  <i>"Code is my language. Creativity is my culture."</i>
+  <b>Developer. Creator. Dreamer.</b><br>
+  <i>I build things that speak — in code, design, and emotion.</i>
 </p>
 
 ---
 
-## 🧩 About Me
+## 🧠 Who I Am
 
-Hey there! I’m **Karlito**, a passionate developer who’s building his journey step by step — one line of code at a time.  
-I’ve got a curious mind, a love for logic, and a creative spark inspired by manga, anime, and tech.
+I’m **Karlito**, a young dev who codes like he’s writing a story —  
+every line, every tag, every loop means something.
 
-I’m all about **creating, optimizing, and exploring** — from designing clean UIs to automating systems that just *work*.  
-Whether it’s frontend design or backend logic, I enjoy pushing myself further every single project.
+I build with curiosity, I learn with passion, and I fail forward —  
+because real progress comes from breaking things, fixing them,  
+and smiling when it finally works at 2 AM ☕💻
 
----
-
-## 💻 What I Work With
-
-**Languages & Tools:**
-- 🌐 **HTML**, **CSS**, **XML** — because structure and style matter.  
-- 🐍 **Python** — my go-to language for logic, automation, and creative tools.  
-- ⚙️ **Tailwind CSS** — for sleek, responsive, minimal designs.  
-- 🧠 **Arch-based Linux** user — full control, no compromises.  
-- 🧩 Code Editor: **VS Code** (custom setup, dark theme supremacy 🖤).
+I don’t code for trends.  
+I code for **freedom**, for **expression**, and because **I love it**.  
 
 ---
 
-## 🚀 My Projects & Creations
+## 💻 My Coding World
 
-### 🌍 [Quizzy](https://github.com/badley08/Quizzy)
-A **multilingual quiz web app** with a clean interface and image integration (like flags & icons).  
-Perfect for testing your knowledge while switching between languages with ease.  
-- Supports multiple languages  
-- Uses a dedicated `Images/` folder for visual content  
-- Built from scratch for performance and simplicity  
+I’m currently exploring and improving in:
+- 🧩 **HTML · CSS · XML · Python**
+- ⚙️ Frontend + Logic + UI/UX — I love making things both *beautiful* and *smart*.
+- 🖥️ Dev setup: **Arch-based Linux**, **VS Code**, **TailwindCSS**, **terminal power user**.
+- 🔍 Always curious, always learning something new.
 
----
+### 🚀 Some of My Creations
 
-### 🧮 Mathlatore (Calculator Web App)
-A **scientific calculator** inspired by Apple’s design — minimal, glassy, and smart.  
-- Real-time calculations (no need to press "=")  
-- Automatic formatting for advanced operations  
-- Memory system to save past results  
-- Styled in **GlassMorphism** for a modern, futuristic look  
+#### 🧩 [Quizzy](https://github.com/badley08/Quizzy)
+A multilingual quiz app that adapts to the world.  
+Simple, fast, elegant — with image support and a UI that feels right.  
+Made to prove that learning can look good *and* feel good.
 
----
+#### 🧮 Mathlatore
+A modern **scientific calculator**, built in pure HTML/CSS/JS,  
+styled with **GlassMorphism**, inspired by Apple — but with my own twist.  
+It calculates in real time, saves previous results, and looks *aesthetic* af 😌  
 
-### 💡 Other Projects
-You’ll find a few experimental builds and concept sites on my GitHub —  
-I love testing new ideas and turning concepts into fully functional experiences.  
-
-> Each project I build is a new way to express both my logic and creativity.  
+> Every project I make starts with “what if I made this my way?”
 
 ---
 
-## 📱 Tech Side & Gear
+## 📱 My Tech Philosophy
 
-- 💚 Big fan of **Android** — especially **OnePlus**, **Pixel**, and **Samsung** devices.  
-- 🧩 I love customizing, modding, and exploring every bit of what a phone can do.  
-- 🖥️ Dev setup: **Arch Linux + VS Code + Tailwind + caffeine** ☕  
-- 🧠 Philosophy: “If it’s open-source, it’s worth exploring.”  
-
----
-
-## 🎌 Manga · Anime · Manhwa · Manhua
-
-Yeah, that’s my second world 🌙  
-When I’m not coding, I’m deep into stories that hit hard — characters who grow through pain, power, and purpose.  
-I love everything from high-action battle shōnen to deep psychological or philosophical series.  
-
-Manga taught me **persistence, creativity, and emotional storytelling** — lessons I apply directly to my coding.  
-Because let’s be real: debugging feels exactly like a training arc sometimes 😭🔥  
+- 💚 Android supremacy — especially **OnePlus**, **Pixel**, and **Samsung**.  
+- ⚙️ I tweak, I mod, I explore. Because tech should be **yours**, not just *used*.  
+- 🖤 I run **Arch Linux** because I love knowing exactly what’s running on my machine.  
+- 🧩 I believe in **open-source freedom** — learning from everyone, sharing with purpose.  
 
 ---
 
-## 🧭 My Mindset
+## 🎌 The Anime & Manga Energy
 
-- 💥 *“Don’t chase perfection, chase progress.”*  
-- 🌱 Learning every day — failure is just data.  
-- ⚡ Coding isn’t just a skill; it’s a lifestyle.  
-- 🧘 I respect tech traditions but always look forward to the next innovation.  
-- 🧩 I blend logic, art, and purpose in everything I create.  
+If code is logic, manga is emotion.  
+Both teach me how to build something that *means* something.  
 
----
+I grew up with stories about people who rise after falling —  
+and that’s how I see programming too: every error is a training arc.  
 
-## 🌐 My Portfolio
+I love characters who think deeply, fight smart, and care hard.  
+They remind me to be human in a world of code.  
 
-You can explore my world here 👉 [**badley08.github.io/Karlito**](https://badley08.github.io/Karlito)
-
-My portfolio is a mix of **projects, personality, and progress** —  
-it reflects not just what I code, but *who I am* as a creator.  
-- Custom layout designed from scratch  
-- Smooth transitions and clean UI  
-- Built to evolve as I grow  
+> “Behind every bug, there’s a story — and every fix is a new chapter.”
 
 ---
 
-## 🌎 Where To Find Me
+## 🌍 My Portfolio
+
+💫 [**badley08.github.io/Karlito**](https://badley08.github.io/Karlito)
+
+It’s not just a portfolio — it’s a **reflection of my growth**.  
+A space where I mix design, logic, and personality.  
+Every section tells a piece of who I am: developer, dreamer, and builder.  
+
+- 🧭 Clean layout with purpose  
+- 🎨 Subtle animations and transitions  
+- ⚡ Constantly evolving, just like me  
+
+---
+
+## ⚡ Mindset
+
+- “Don’t wait for the perfect moment — code until it becomes one.”  
+- Perfection isn’t real. **Progress is.**  
+- I build, I break, I rebuild. That’s how I grow.  
+- Tech is my playground, not my cage.  
+- I’m not here to follow the wave — I’m here to **create my own**.  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/badley08">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://x.com/Badley08">
-    <img src="https://img.shields.io/badge/Twitter / X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://www.tiktok.com/@code_senpai">
     <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white"/>
@@ -114,6 +109,5 @@ it reflects not just what I code, but *who I am* as a creator.
 
 ---
 
-<p align="center">
-  🧠 <b>“Code with purpose. Design with passion. Live with vision.”</b> 💫
-</p>
+<h3 align="center">🧠 "Code with soul. Design with intent. Live like an open-source project." 🌙</h3>
+
